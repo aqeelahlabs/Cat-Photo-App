@@ -29,7 +29,7 @@ A simple cat-themed web page with photos, links and lists. Built as part of the 
 
 1. Clone the repository:
    
-``` https://aqeelahlabs.github.io/Cat-Photo-App/
+(https://github.com/aqeelahlabs/Cat-Photo-App.git)
 ```
 2. Open `index.html` in your browser.
 
