@@ -28,8 +28,8 @@ A simple cat-themed web page with photos, links and lists. Built as part of the 
 ## Run It Locally
 
 1. Clone the repository:
-```
-   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+   
+``` https://aqeelahlabs.github.io/Cat-Photo-App/
 ```
 2. Open `index.html` in your browser.
 
