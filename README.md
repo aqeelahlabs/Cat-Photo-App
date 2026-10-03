@@ -1,39 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-<meta charset="UTF-8">   
-    <title>CatPhotoApp</title>
-  </head>
-  <body>
-    <main>
-      <h1>CatPhotoApp</h1>
-      <section>
-        <h2>Cat Photos</h2>
-        <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg">cute cats</a> online!</p>
-        <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
-      </section>
-      <section>
-        <h2>Cat Lists</h2>
-        <h3>Things cats love:</h3>
-        <ul>
-          <li>catnip</li>
-          <li>laser pointers</li>
-          <li>lasagna</li>
-        </ul>
-        <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-          <figcaption>Cats <em>love</em> lasagna.</figcaption>  
-        </figure>
-        <h3>Top 3 things cats hate:</h3>
-        <ol>
-          <li>flea treatment</li>
-          <li>thunder</li>
-          <li>other cats</li>
-        </ol>
-        <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch.">
-          <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
-        </figure>
-      </section>
-    </main>
+# CatPhotoApp
+
+A simple cat-themed web page with photos, links and lists. Built as part of the freeCodeCamp curriculum.
+
+## Live Demo
+
+[View the project](https://aqeelahlabs.github.io/Cat-Photo-App/)
+
+## Features
+
+- A "Cat Photos" section with links and a clickable image
+- A "Cat Lists" section with an unordered list of things cats love and an ordered list of things cats hate
+- Images with captions, using emphasis (`em`) and strong importance (`strong`) in the text
+
+## What I Practised
+
+- Structuring a page with semantic HTML5 elements (`main`, `section`)
+- Creating a heading hierarchy with `h1`, `h2` and `h3`
+- Adding links, including one that opens in a new tab with `target="_blank"`
+- Wrapping an image in a link to make it clickable
+- Building unordered (`ul`) and ordered (`ol`) lists
+- Marking up images with `figure`, `figcaption` and descriptive `alt` text
+
+## Built With
+
+- HTML5
+
+## Run It Locally
+
+1. Clone the repository:
+```
+   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+```
+2. Open `index.html` in your browser.
+
+## Author
+
+Aqeelah, [@aqeelahlabs](https://github.com/aqeelahlabs)
